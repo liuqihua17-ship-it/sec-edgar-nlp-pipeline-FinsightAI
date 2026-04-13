@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "q001",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Apple's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q002",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Apple's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q003",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Apple in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "regulatory_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q004",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Apple's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q005",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Apple's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q006",
+    "ticker": "AAPL",
+    "company": "Apple",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Apple in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "regulatory_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q007",
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Amazon's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q008",
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Amazon's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q009",
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Amazon in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "operational_risk",
+      "regulatory_risk"
+    ]
+  },
+  {
+    "id": "q010",
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Amazon's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q011",
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Amazon's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q012",
+    "ticker": "AMZN",
+    "company": "Amazon",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Amazon in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "operational_risk",
+      "regulatory_risk"
+    ]
+  },
+  {
+    "id": "q013",
+    "ticker": "CSCO",
+    "company": "Cisco",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Cisco's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q014",
+    "ticker": "CSCO",
+    "company": "Cisco",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Cisco's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q015",
+    "ticker": "CSCO",
+    "company": "Cisco",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Cisco in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "cybersecurity_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q016",
+    "ticker": "CSCO",
+    "company": "Cisco",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Cisco's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q017",
+    "ticker": "CSCO",
+    "company": "Cisco",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Cisco's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q018",
+    "ticker": "CSCO",
+    "company": "Cisco",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Cisco in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "cybersecurity_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q019",
+    "ticker": "CVX",
+    "company": "Chevron",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Chevron's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q020",
+    "ticker": "CVX",
+    "company": "Chevron",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Chevron's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q021",
+    "ticker": "CVX",
+    "company": "Chevron",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Chevron in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "market_risk",
+      "regulatory_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q022",
+    "ticker": "CVX",
+    "company": "Chevron",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Chevron's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q023",
+    "ticker": "CVX",
+    "company": "Chevron",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Chevron's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q024",
+    "ticker": "CVX",
+    "company": "Chevron",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Chevron in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "market_risk",
+      "regulatory_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q025",
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Johnson & Johnson's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q026",
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Johnson & Johnson's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q027",
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Johnson & Johnson in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "regulatory_risk",
+      "operational_risk",
+      "competitive_risk"
+    ]
+  },
+  {
+    "id": "q028",
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Johnson & Johnson's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q029",
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Johnson & Johnson's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q030",
+    "ticker": "JNJ",
+    "company": "Johnson & Johnson",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Johnson & Johnson in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "regulatory_risk",
+      "operational_risk",
+      "competitive_risk"
+    ]
+  },
+  {
+    "id": "q031",
+    "ticker": "META",
+    "company": "Meta",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Meta's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q032",
+    "ticker": "META",
+    "company": "Meta",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Meta's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q033",
+    "ticker": "META",
+    "company": "Meta",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Meta in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "regulatory_risk",
+      "competitive_risk",
+      "cybersecurity_risk"
+    ]
+  },
+  {
+    "id": "q034",
+    "ticker": "META",
+    "company": "Meta",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Meta's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q035",
+    "ticker": "META",
+    "company": "Meta",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Meta's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q036",
+    "ticker": "META",
+    "company": "Meta",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Meta in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "regulatory_risk",
+      "competitive_risk",
+      "cybersecurity_risk"
+    ]
+  },
+  {
+    "id": "q037",
+    "ticker": "NFLX",
+    "company": "Netflix",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Netflix's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q038",
+    "ticker": "NFLX",
+    "company": "Netflix",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Netflix's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q039",
+    "ticker": "NFLX",
+    "company": "Netflix",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Netflix in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "market_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q040",
+    "ticker": "NFLX",
+    "company": "Netflix",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Netflix's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q041",
+    "ticker": "NFLX",
+    "company": "Netflix",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Netflix's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q042",
+    "ticker": "NFLX",
+    "company": "Netflix",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Netflix in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "market_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q043",
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was NVIDIA's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q044",
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was NVIDIA's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q045",
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by NVIDIA in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "supply_chain_risk",
+      "competitive_risk",
+      "market_risk"
+    ]
+  },
+  {
+    "id": "q046",
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was NVIDIA's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q047",
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was NVIDIA's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q048",
+    "ticker": "NVDA",
+    "company": "NVIDIA",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by NVIDIA in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "supply_chain_risk",
+      "competitive_risk",
+      "market_risk"
+    ]
+  },
+  {
+    "id": "q049",
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Oracle's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q050",
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Oracle's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q051",
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Oracle in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "cybersecurity_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q052",
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Oracle's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q053",
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Oracle's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q054",
+    "ticker": "ORCL",
+    "company": "Oracle",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Oracle in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "competitive_risk",
+      "cybersecurity_risk",
+      "operational_risk"
+    ]
+  },
+  {
+    "id": "q055",
+    "ticker": "WMT",
+    "company": "Walmart",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Walmart's total revenue in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q056",
+    "ticker": "WMT",
+    "company": "Walmart",
+    "year": 2022,
+    "task": "qa_fact",
+    "question": "What was Walmart's net income in 2022?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q057",
+    "ticker": "WMT",
+    "company": "Walmart",
+    "year": 2022,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Walmart in 2022?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "operational_risk",
+      "supply_chain_risk",
+      "competitive_risk"
+    ]
+  },
+  {
+    "id": "q058",
+    "ticker": "WMT",
+    "company": "Walmart",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Walmart's total revenue in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "revenue",
+      "net sales",
+      "total revenue"
+    ]
+  },
+  {
+    "id": "q059",
+    "ticker": "WMT",
+    "company": "Walmart",
+    "year": 2023,
+    "task": "qa_fact",
+    "question": "What was Walmart's net income in 2023?",
+    "expected_sections": [
+      "financial statements",
+      "income statement",
+      "results of operations",
+      "management discussion"
+    ],
+    "keywords": [
+      "net income",
+      "net earnings",
+      "profit"
+    ]
+  },
+  {
+    "id": "q060",
+    "ticker": "WMT",
+    "company": "Walmart",
+    "year": 2023,
+    "task": "qa_risk",
+    "question": "What were the main risk factors reported by Walmart in 2023?",
+    "expected_sections": [
+      "risk factors",
+      "item 1a",
+      "management discussion"
+    ],
+    "keywords": [
+      "risk",
+      "uncertainty",
+      "competition",
+      "regulation",
+      "operations",
+      "market"
+    ],
+    "expected_labels": [
+      "operational_risk",
+      "supply_chain_risk",
+      "competitive_risk"
+    ]
+  }
+]
